@@ -1,6 +1,6 @@
-import "./App.css";
-import PetsList from "./Components/PetsList";
-import petsData from "./petsData";
+import './App.css';
+import PetsList from './Components/PetsList';
+import petsData from './petsData';
 
 function App() {
   return (
